@@ -12,7 +12,7 @@
 - *Beautiful Soup supports the HTML parser included in Python's standard library, however it also supports many external third party python parsers like lxml parser or html5lib parser.*
 
 
-## 🧐 Steps involved in web scraping:
+## 🧐 Steps involved in web scraping :
 
 1. Requests Library Sends an HTTP request to the URL of the webpage you want to access. The server responds to the request by returning the HTML content of the webpage. For this task, we will use a third-party HTTP library for python-requests.
 
