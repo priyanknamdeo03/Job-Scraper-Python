@@ -41,7 +41,7 @@ We create a BeautifulSoup object by passing two arguments:
 - **`html.parser :`** Specifying the HTML parser we want to use.
 
 ```bash
-git clone https://github.com/priyanknamdeo03/News-Scraper-Python.git
+git clone https://github.com/priyanknamdeo03/Job-Scraper-Python.git
 ```
 
 
